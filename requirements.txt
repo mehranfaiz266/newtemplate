@@ -20,3 +20,4 @@ blinker==1.6.2
 
 # flask_mysqldb
 # psycopg2-binary
+cryptography==41.0.4
